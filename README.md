@@ -1,4 +1,5 @@
 # copenheimer-masscan
+-This exploits a vulnerability in Minecraft allowing the user to find any player on any server worldwide.
 
 ![image](https://user-images.githubusercontent.com/12180913/142133822-f4267de7-59f7-4610-b071-2ec893247cce.png)
 
@@ -19,4 +20,6 @@
 - The original masscan developer(robertdavidgraham)
 - Orsondmc and 0x22 for contributions.  
 
+**Disclaimer** 
+- I am not responsible for any way you choose to use this project. Remember port scanning can lead to dangerous consequences and not all organizations will appreciate being port-scanned. There is an exclude config file added to exclude certain ip ranges.
 
