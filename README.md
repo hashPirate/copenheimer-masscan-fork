@@ -9,20 +9,20 @@
 - make
 
 **Example command using minecraft banner check:**
-- sudo ./masscan (Misc args) --banners --hello=minecraft --source-ip 192.168.1.234 (192.168.1.234 is just an example ip, for production replace with an unused LAN ip)
+- `sudo ./masscan (Misc args) --banners --hello=minecraft --source-ip 192.168.1.234 (192.168.1.234` is just an example ip, for production replace with an unused LAN ip)
 **Featured in**
 Featured in - https://www.youtube.com/watch?v=fvbVnT-RW-U and https://www.youtube.com/watch?v=hoS0PM20KJk
-note: do not use this to grief innocent players, its simply for educational purposes
+**note: do not use this to grief innocent players, its simply for educational purposes**
 **or:**
   
-- iptables -A INPUT -p tcp --dport 61000 -j DROP
-- sudo ./masscan (Misc args) --banners --hello=minecraft --source-port 61000
+- `iptables -A INPUT -p tcp --dport 61000 -j DROP`
+- `sudo ./masscan (Misc args) --banners --hello=minecraft --source-port 61000`
 
 **Credits**
 - The original masscan developer(robertdavidgraham)
 - Orsondmc and 0x22 for contributions.  
 
 **Disclaimer** 
-- I am not responsible for any way you choose to use this project. Remember port scanning can lead to dangerous consequences and not all organizations will appreciate being port-scanned. There is an exclude config file added to exclude certain ip ranges.
+- **I am not responsible for any way you choose to use this project. Remember port scanning can lead to dangerous consequences and not all organizations will appreciate being port-scanned. There is an exclude config file added to exclude certain ip ranges.**
 
 
