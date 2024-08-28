@@ -1,7 +1,7 @@
 # copenheimer-masscan
 -This exploits a vulnerability in Minecraft allowing the user to find any player on any server worldwide.
 
-![image](https://user-images.githubusercontent.com/12180913/142133822-f4267de7-59f7-4610-b071-2ec893247cce.png)
+![image](https://cdn.discordapp.com/attachments/1185258518153011343/1278466248400699482/Screenshot_2024-08-28_162745.png?ex=66d0e7fa&is=66cf967a&hm=fd7393d186cfbf85d3b6ab86874bda73b35e68211fc532e82dd8bba863695876&)
 
 **Build instructions:**
 - Install build tools in Linux if needed
