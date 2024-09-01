@@ -13,7 +13,6 @@
 **Featured in**
 Featured in - https://www.youtube.com/watch?v=fvbVnT-RW-U and https://www.youtube.com/watch?v=hoS0PM20KJk
 note: do not use this to grief innocent players, its simply for educational purposes
-**or:**
   
 - iptables -A INPUT -p tcp --dport 61000 -j DROP
 - sudo ./masscan (Misc args) --banners --hello=minecraft --source-port 61000
